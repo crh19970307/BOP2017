@@ -18,4 +18,4 @@ Folder *model* contains model of the LSTM trained on the train dataset and a sim
 Folder *script* contains the script for training, testing.
 
 ----
-If you have questions or ideas, just create an issue. Ackonwledegment for my teammates [Weichao Mao](https://github.com/xizeroplus),[Zhiyuan Tang](https://github.com/silencender) and [Xiang Song]() .
+If you have questions or ideas, just create an issue. Ackonwledegment for my teammates [Weichao Mao](https://github.com/xizeroplus), [Zhiyuan Tang](https://github.com/silencender) and [Xiang Song]() .
