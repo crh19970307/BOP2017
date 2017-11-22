@@ -18,4 +18,4 @@ Folder *model* contains model of the LSTM trained on the train dataset and a sim
 Folder *script* contains the script for training, testing.
 
 ----
-If you have questions or ideas, create an issue and I will reply to you in a week. 
+If you have questions or ideas, just create an issue. 
